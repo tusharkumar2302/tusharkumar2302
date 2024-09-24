@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/tusharkumar2302" target="blank"><img src="https://img.shields.io/twitter/follow/tusharkumar2302?logo=twitter&style=for-the-badge" alt="tushar-kumar"  </p>
 
+- 👨‍💻 All of my projects are available at [https://tk-portfolio-v1.netlify.app/](https://tk-portfolio-v1.netlify.app/)
+
 - 🔭 I’m currently working on **Dr. Car**
 
 - 💬 Ask me about **React, React Native, Laravel 11, Mysql**
